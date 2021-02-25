@@ -9,7 +9,7 @@ data hat;
       end;
    end;
 run;
-title1 c=white f=swiss 'The Cowboy Hat is completely awesome';
+title1 c=white f=swiss 'The Cowboy Hat';
 title2 h=2 angle=90 ' ';
 
 proc g3d data=hat;
