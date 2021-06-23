@@ -17,5 +17,5 @@ proc g3d data=hat;
 run; 
 
 /* test */
-/* TEST COMMENT 2 */
+/* TEST COMMENT 2abc */
 
