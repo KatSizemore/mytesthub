@@ -19,3 +19,8 @@ run;
 /* test */
 /* TEST COMMENT 2abc */
 
+
+/* adding data step */
+data one;
+ x=1; run;
+
