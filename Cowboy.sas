@@ -22,5 +22,5 @@ run;
 
 /* adding data step */
 data one;
- x=1; run;
+ x=2; run;
 
